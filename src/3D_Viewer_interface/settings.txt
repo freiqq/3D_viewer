@@ -1,0 +1,14 @@
+line_width = 1.300000
+point_size = 5.000000
+dotted_line = 0
+type_of_point = 1
+color_of_line_r = 255
+color_of_line_g = 50
+color_of_line_b = 55
+color_of_back_r = 0
+color_of_back_r = 65
+color_of_back_g = 45
+color_of_point_g = 0
+color_of_point_b = 5
+color_of_point_b = 0
+projection = 1
